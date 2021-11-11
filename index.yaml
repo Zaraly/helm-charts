@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  bu-nginx:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-11-11T20:24:24.014996764Z"
+    description: A Helm chart for Kubernetes - Norma
+    digest: c31cef2020341a481bec4231fe627598853dbc8478a8e13de857643be6d18d34
+    name: bu-nginx
+    type: application
+    urls:
+    - https://Zaraly.github.io/helm-charts/bu-nginx/bu-nginx-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-11-11T20:24:24.01351301Z"
